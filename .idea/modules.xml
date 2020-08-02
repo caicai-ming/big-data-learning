@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/big-data-learning.iml" filepath="$PROJECT_DIR$/.idea/big-data-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-learning/spark-learning.iml" filepath="$PROJECT_DIR$/spark-learning/spark-learning.iml" />
     </modules>
   </component>
 </project>
