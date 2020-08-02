@@ -26,12 +26,6 @@
       <scope>test</scope>
     </dependency>
 
-    <!-- 引入Scala -->
-    <dependency>
-      <groupId>org.scala-lang</groupId>
-      <artifactId>scala-library</artifactId>
-    </dependency>
-
   </dependencies>
 
   <pluginRepositories>
