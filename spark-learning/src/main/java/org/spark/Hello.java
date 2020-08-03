@@ -6,13 +6,6 @@ package org.spark;
  */
 public class Hello {
     public static void main(String[] args) {
-
-        //1.aaa
-        //2.sss
-        //3.ddd
         System.out.println("hello,world");
-
-        //liuming 的分支
-
     }
 }
