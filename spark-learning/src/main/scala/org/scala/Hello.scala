@@ -1,0 +1,7 @@
+package org.scala
+
+object Hello {
+  def main(args: Array[String]): Unit = {
+    println("hello,world!~")
+  }
+}
